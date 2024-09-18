@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I do stuff...
+
+_Insert things I've done here_
+
+You can reach me on Discord: [@thelukez](https://discord.com/users/506893652266844162)
+
 <!--
 **The-LukeZ/The-LukeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
