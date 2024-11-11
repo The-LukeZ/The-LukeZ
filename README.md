@@ -7,6 +7,7 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 
 
 ### 🤠 I am familiar with
+
 - TypeScript/Javascript
 - Python
 - Pascal
@@ -15,19 +16,24 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 
 
 ### 🔭 I’m currently working on...
+
 - [SupportMail](https://supportmail.dev) | `TS` | a modern Modmail App for Discord
 - Marshall-Security | `TS` | a modern, easy to use security App for Discord
 - [burningdezibelz.de](https://burningdezibelz.de) | `JS` | a website for our band
 
 
 ### 🌱 I’m currently learning...
+
 - PHP
 - Svelte(Kit)
 - Kotlin
 - Wordpress
 
 
-**Fun fact:** Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
+
+#### Fun fact
+
+Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 <!--
 **The-LukeZ/The-LukeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
