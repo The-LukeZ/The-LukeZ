@@ -13,13 +13,14 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 - Pascal
 - MongoDB
 - SQL
+- Svelte 5 (learning)
 
 
 ### 🔭 I’m currently working on...
 
 - [SupportMail](https://supportmail.dev) | `TS` | a modern Modmail App for Discord
 - Marshall-Security | `TS` | a modern, easy to use security App for Discord
-- [burningdezibelz.de](https://burningdezibelz.de) | `JS` | a website for our band
+- [burningdezibelz.de](https://burningdezibelz.de) | `JS` & `Svelte` | a website for our band
 
 
 ### 🌱 I’m currently learning...
