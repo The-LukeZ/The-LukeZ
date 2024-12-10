@@ -2,7 +2,6 @@
 
 I do stuff...
 
-
 You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893652266844162)
 
 
