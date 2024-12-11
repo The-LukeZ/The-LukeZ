@@ -12,7 +12,6 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 - Pascal
 - MongoDB
 - SQL
-- Svelte 5 (learning)
 
 
 ### 🔭 I’m currently working on...
@@ -25,7 +24,7 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 ### 🌱 I’m currently learning...
 
 - PHP
-- Svelte(Kit)
+- Svelte(Kit) 5
 - Kotlin
 - Wordpress
 
