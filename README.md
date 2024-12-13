@@ -31,21 +31,11 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 
 ![stats](https://github-readme-stats.vercel.app/api?username=The-LukeZ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+
+### [Future ideas][ideas]
+
+[ideas]: /ideas.md
+
 #### Fun fact
 
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
-
-<!--
-**The-LukeZ/The-LukeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
