@@ -28,10 +28,11 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 - Kotlin
 - Wordpress
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-LukeZ&theme=dracula&layout=compact&border_radius=5&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  
+![stats](https://github-readme-stats.vercel.app/api?username=The-LukeZ&theme=dracula&show_icons=true&hide_border=true&count_private=true&border_radius=5&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-LukeZ&theme=dracula&layout=compact&border_radius=5&show_icons=true&hide_border=true&count_private=true)
 
-![stats](https://github-readme-stats.vercel.app/api?username=The-LukeZ&theme=dracula&show_icons=true&hide_border=true&count_private=true&border_radius=5&hide_rank=true)
-
+</div>
 
 ### [Future ideas][ideas]
 
