@@ -7,6 +7,12 @@ You can reach out to me on Discord: **@thelukez** (ID: 506893652266844162)
 I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy playing video games ([Steam](https://steamcommunity.com/id/LukeZ3005/)) and making YouTube videos ([gaming](https://youtube.com/@the-gaming-lukez) and [drumming](https://www.youtube.com/@The_LukeZ)).
 
 
+### 👉🏻 Main Project
+
+- [SupportMail](https://supportmail.dev/) (Discord Modmail Bot, serving 580+ guilds)
+
+
+
 ### 🤠 The tech I know:
 
 - TS/JS
@@ -20,8 +26,8 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 
 ### 🔭 I’m currently working on:
 
-- Dashboard for [SupportMail](https://supportmail.dev) | `TS` | a modern Modmail App for Discord
-- Bot for Marshall-Security | `TS` | a modern, easy to use security App for Discord
+- Dashboard for SupportMail | `TS`
+- Discord Security Bot | `TS`
 
 
 ### 🌱 Stuff I want to learn:
