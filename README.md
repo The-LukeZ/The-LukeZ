@@ -2,30 +2,32 @@
 
 I do stuff...
 
-You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893652266844162)
+You can reach out to me on Discord: **@thelukez** (ID: 506893652266844162)
+
+I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy playing video games ([Steam](https://steamcommunity.com/id/LukeZ3005/)) and making YouTube videos ([gaming](https://youtube.com/@the-gaming-lukez) and [drumming](https://www.youtube.com/@The_LukeZ)).
 
 
-### 🤠 I am familiar with
+### 🤠 The tech I know:
 
-- TypeScript/Javascript
+- TS/JS
+- HTML, CSS
 - Python
-- Pascal
+- Pascal _(because of school...)_
 - MongoDB
 - SQL
 - Svelte 5 & SvelteKit
 
 
-### 🔭 I’m currently working on...
+### 🔭 I’m currently working on:
 
 - Dashboard for [SupportMail](https://supportmail.dev) | `TS` | a modern Modmail App for Discord
 - Bot for Marshall-Security | `TS` | a modern, easy to use security App for Discord
 
 
-### 🌱 I’m currently learning...
+### 🌱 Stuff I want to learn:
 
 - PHP
-- Kotlin
-- Wordpress
+- Kotlin (For Android)
 
 <div align="center">
   
@@ -33,10 +35,11 @@ You can reach out to me on Discord: [@thelukez](https://discord.com/users/506893
 
 </div>
 
-### [Future ideas][ideas]
-
-[ideas]: /ideas.md
+> [!NOTE]
+> Future ideas I want to do can be found [here][ideas].
 
 #### Fun fact
 
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
+
+[ideas]: /ideas.md
