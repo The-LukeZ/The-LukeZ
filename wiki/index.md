@@ -1,10 +1,17 @@
-# LukeZ Wiki
-
-This is the index page of the LukeZ Wiki, which contains various guides and documentation related to my projects and tools.
-
+---
+layout: home
+title: LukeZ Wiki
 ---
 
-## Contents
+# Welcome to LukeZ Wiki
+
+This wiki contains various guides and documentation related to my projects and tools.
+
+## All Documentation
 
 - [Migrate from NPM to PNPM](npm-to-pnpm-migration.md)
 - [Setup and Configure NGINX](nginx-setup.md)
+
+---
+
+_Last updated: {{ site.time | date: "%B %d, %Y" }}_

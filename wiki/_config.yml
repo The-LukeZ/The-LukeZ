@@ -1,0 +1,35 @@
+# Jekyll Configuration File
+# This file is used to configure the Jekyll site.
+# For more information on configuration options, see:
+# https://jekyllrb.com/docs/configuration/
+
+# Site settings
+title: Your Wiki Site
+description: A knowledge base built with Jekyll
+url: "https://The-LukeZ.github.io"
+baseurl: "/The-LukeZ"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Source directory
+source: wiki
+
+# Collections (optional, for organizing content)
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from build
+exclude:
+  - README.md
+  - .github/
