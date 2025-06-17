@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll Wiki
 
 on:
   push:
-    branches: ["main"] # or your default branch
+    branches: ["main"]
     paths: ["wiki/**"] # Only trigger when wiki folder changes
   workflow_dispatch:
 
@@ -22,40 +22,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.2"
-          bundler-cache: true
-          working-directory: "./wiki"
-
       - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        run: |
-          echo "Building site..."
-          cd wiki
-          bundle exec jekyll build --destination ../_site
-        env:
-          JEKYLL_ENV: production
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./wiki
+          destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        # with:
-        #   path: _site
 
   deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
