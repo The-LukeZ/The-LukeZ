@@ -15,3 +15,6 @@
 - [ ] A GitHub template with Sveltekit for static docs gen
 
 - [ ] Timecapsule service for Spotify
+
+- [ ] A discord user bot - a chat gpt wrapper. Where you can interact with messages to let the AI summarize it for you and also sanitize a message it so you can read petty formatting/Gen Z language.
+
