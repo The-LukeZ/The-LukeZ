@@ -27,7 +27,7 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 ### 🔭 I’m currently working on:
 
 - Dashboard for SupportMail | `TS`
-- Discord Security Bot | `TS`
+- Next Gen Discord Ticket Bot | `TS`
 
 
 ### 🌱 Stuff I want to learn:
