@@ -7,9 +7,10 @@ You can reach out to me on Discord: **@thelukez** (ID: 506893652266844162)
 I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy playing video games ([Steam](https://steamcommunity.com/id/LukeZ3005/)) and making YouTube videos ([gaming](https://youtube.com/@the-gaming-lukez) and [drumming](https://www.youtube.com/@The_LukeZ)). I also love cats. Miau.
 
 
-### 👉🏻 Main Project
+### 👉🏻 Current Project
 
-- [SupportMail](https://supportmail.dev/) (Discord Modmail Bot, serving 740+ guilds)
+- [SupportMail](https://supportmail.dev) (Discord Modmail Bot, serving 760+ guilds)
+- [Ticketon](https://ticketon.app/) (Modern Discord Ticket Bot)
 
 
 
@@ -22,18 +23,17 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 - MongoDB
 - SQL
 - Svelte 5 & SvelteKit
+- Vue
+- Swift
 
 
 ### 🔭 I’m currently working on:
 
 - Dashboard for SupportMail | `TS`
-- Next Gen Discord Ticket Bot | `TS`
+- Ticketon | TS
 
 
-### 🌱 Stuff I want to learn:
-
-- PHP
-- Kotlin (For Android)
+<!-- ### 🌱 Stuff I want to learn:-->
 
 <div align="center">
   
