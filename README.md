@@ -33,7 +33,8 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 - Ticketon | TS
 
 
-<!-- ### 🌱 Stuff I want to learn:-->
+<!-- ### 🌱 Stuff I want to learn:
+-->
 
 <div align="center">
   
@@ -49,3 +50,4 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 [ideas]: /ideas.md
+
