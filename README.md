@@ -9,7 +9,7 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 
 ### 👉🏻 Current Project
 
-- [SupportMail](https://supportmail.dev) (Discord Modmail Bot, serving 760+ guilds)
+- [SupportMail](https://supportmail.dev) (Discord Modmail Bot, serving 820+ guilds)
 - [Ticketon](https://ticketon.app/) (Modern Discord Ticket Bot)
 
 
