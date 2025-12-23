@@ -2,7 +2,7 @@
 
 I do stuff...
 
-You can reach out to me on Discord: **@thelukez** (ID: 506893652266844162)
+You can reach out to me on Discord: [**@thelukez**](discord://-/users/506893652266844162/) (ID: 506893652266844162)
 
 I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy playing video games ([Steam](https://steamcommunity.com/id/LukeZ3005/)) and making YouTube videos ([gaming](https://youtube.com/@the-gaming-lukez) and [drumming](https://www.youtube.com/@The_LukeZ)). I also love cats. Miau.
 
