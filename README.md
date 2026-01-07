@@ -19,7 +19,7 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 - TS/JS
 - HTML, CSS
 - Python
-- Pascal _(because of school...)_
+- Pascal, PHP _because of school..._
 - MongoDB
 - SQL
 - Svelte 5 & SvelteKit
@@ -29,18 +29,14 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 
 ### 🔭 I’m currently working on:
 
-- Dashboard for SupportMail | `TS`
-- Ticketon | TS
+- [Dashboard for SupportMail](https://github.com/supportmailapp/dashboard)
+- Too much other stuff (check my most recent activity and my pinned repos below)
 
 
-<!-- ### 🌱 Stuff I want to learn:
--->
+### 🌱 Stuff I want to learn:
 
-<div align="center">
-  
-![stats](https://github-readme-stats.vercel.app/api?username=The-LukeZ&theme=dracula&show_icons=true&hide_border=true&count_private=true&border_radius=5&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-LukeZ&theme=dracula&layout=compact&border_radius=5&show_icons=true&hide_border=true&count_private=true)
-
-</div>
+- Vue.js
+- Go
 
 > [!NOTE]
 > Future ideas I want to do can be found [here][ideas].
@@ -50,5 +46,6 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 [ideas]: /ideas.md
+
 
 
