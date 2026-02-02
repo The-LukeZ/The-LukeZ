@@ -29,7 +29,8 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 
 ### 🔭 I’m currently working on:
 
-- [Dashboard for SupportMail](https://github.com/supportmailapp/dashboard)
+- [SupportMail](https://supportmail.dev/)
+- [Ticketon](https://ticketon.app/)
 - Too much other stuff (check my most recent activity and my pinned repos below)
 
 
@@ -41,11 +42,16 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 > [!NOTE]
 > Future ideas I want to do can be found [here][ideas].
 
+![LukeZ' GitHub stats](https://github-readme-stats.thelukez.com/api?username=The-LukeZ&show_icons=true&theme=transparent&show=discussions_started,discussions_answered,prs_merged&cache_seconds=86400&text_color=fca103)
+
+![Top Langs](https://github-readme-stats.thelukez.com/api/top-langs/?username=The-LukeZ&layout=compact&theme=transparent&text_color=fca103)
+
 #### Fun fact
 
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 [ideas]: /ideas.md
+
 
 
 
