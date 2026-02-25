@@ -2,7 +2,7 @@
 
 I do stuff...
 
-You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/) (f\*\*\* Discord)
+You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/) (f\*\*\* Discord) or just look at my [portfolio](https://thelukez.com/).
 
 - Love to play drums, both privately and in a band
 - Enjoy playing video games, mainly R6S
@@ -52,6 +52,7 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 [ideas]: /ideas.md
+
 
 
 
