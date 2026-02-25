@@ -14,7 +14,7 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 
 - [SupportMail](https://supportmail.dev) (Discord Modmail Bot, serving 820+ guilds)
 - [Ticketon](https://ticketon.app/) (Modern Discord Ticket Bot)
-- [Honcord](https://honocord.thelukez.com/) - Library build for Hono on top of [@discordjs](https://github.com/orgs/discordjs) for building HTTP Interaction Bots on Cloudflare Workers
+- [Honcord](https://honocord.thelukez.com/) - Library built for/with Hono on top of [@discordjs](https://github.com/orgs/discordjs) for building HTTP Interaction Bots on Cloudflare Workers
 
 
 ### 🤠 The tech I know:
@@ -52,6 +52,7 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 [ideas]: /ideas.md
+
 
 
 
