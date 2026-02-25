@@ -2,41 +2,42 @@
 
 I do stuff...
 
-You can reach out to me on Discord: [@thelukez](discord://-/users/506893652266844162/) (ID: 506893652266844162)
+You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/)
 
-I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy playing video games ([Steam](https://steamcommunity.com/id/LukeZ3005/)) and making YouTube videos ([gaming](https://youtube.com/@the-gaming-lukez) and [drumming](https://www.youtube.com/@The_LukeZ)). I also love cats. Miau.
+- Love to play drums, both privately and in a band
+- Enjoy playing video games, mainly R6S
+- Make YouTube videos (sometimes at least)
+- I also love cats.
 
 
-### 👉🏻 Current Project
+### 👉🏻 Current Main Projects (outside of work)
 
 - [SupportMail](https://supportmail.dev) (Discord Modmail Bot, serving 820+ guilds)
 - [Ticketon](https://ticketon.app/) (Modern Discord Ticket Bot)
-
+- [Honcord](https://honocord.thelukez.com/) - Library build for Hono on top of [@discordjs](https://github.com/orgs/discordjs) for building HTTP Interaction Bots on Cloudflare Workers
 
 
 ### 🤠 The tech I know:
 
+#### Expert-ish
 - TS/JS
 - HTML, CSS
 - Python
-- Pascal, PHP _because of school..._
 - MongoDB
 - SQL
 - Svelte 5 & SvelteKit
-- Vue
+
+#### Intermediate
+- Pascal _because of school..._
+
+#### Beginner
+- Kotlin
+- Vue + Nuxt
 - Swift
-
-
-### 🔭 I’m currently working on:
-
-- [SupportMail](https://supportmail.dev/)
-- [Ticketon](https://ticketon.app/)
-- Too much other stuff (check my most recent activity and my pinned repos below)
+- PHP
 
 
 ### 🌱 Stuff I want to learn:
-
-- Vue.js
 - Go
 
 > [!NOTE]
@@ -51,6 +52,7 @@ I play drums (privately and in a [band](https://burningdezibelz.de/)), enjoy pla
 Penguins actually dream in technicolor, but only on Tuesdays when the moon is in the seventh house.
 
 [ideas]: /ideas.md
+
 
 
 
