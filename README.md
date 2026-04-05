@@ -2,7 +2,7 @@
 
 I do stuff...
 
-You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/) (f\*\*\* Discord) or just look at my [portfolio](https://thelukez.com/).
+You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/) or just look at my [portfolio](https://thelukez.com/).
 
 - Love to play drums, both privately and in a band
 - Enjoy playing video games, mainly R6S
@@ -16,6 +16,10 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 - [Ticketon](https://ticketon.app/) (Modern Discord Ticket Bot)
 - [Honcord](https://honocord.thelukez.com/) - Library built for/with Hono on top of [@discordjs](https://github.com/orgs/discordjs) for building HTTP Interaction Bots on Cloudflare Workers
 
+And also some recent stuff...
+
+| [![li18n Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=li18n&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/li18n) | [![Fido Scanner Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=fido-scanner-v2&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/fido-scanner-v2) |
+|:---:|:---:|
 
 ### 🤠 The tech I know:
 
