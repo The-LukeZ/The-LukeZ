@@ -12,9 +12,9 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 
 ### 👉🏻 Current Main Projects (outside of work)
 
-- [SupportMail](https://supportmail.dev) (Discord Modmail Bot, serving 820+ guilds)
-- [Ticketon](https://ticketon.app/) (Modern Discord Ticket Bot)
-- [Honcord](https://honocord.thelukez.com/) - Library built for/with Hono on top of [@discordjs](https://github.com/orgs/discordjs) for building HTTP Interaction Bots on Cloudflare Workers
+- [Zag Post](https://zagpost.org/) -- Private Messaging for the people
+- [SupportMail](https://supportmail.dev/) -- Discord Modmail Bot, serving 820+ guilds
+- [Ticketon](https://ticketon.app/) -- Modern Discord Ticket Bot
 
 And also some recent stuff...
 
