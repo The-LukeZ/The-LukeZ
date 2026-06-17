@@ -12,14 +12,12 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 
 ### 👉🏻 Current Main Projects (outside of work)
 
-- [Zag Post](https://zagpost.org/) -- Private Messaging for the people
 - [SupportMail](https://supportmail.dev/) -- Discord Modmail Bot, serving 820+ guilds
 - [Ticketon](https://ticketon.app/) -- Modern Discord Ticket Bot
 
 And also some recent stuff...
 
-| [![li18n Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=li18n&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/li18n) | [![Fido Scanner Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=fido-scanner-v2&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/fido-scanner-v2) |
-|:---:|:---:|
+[![li18n Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=li18n&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/li18n)
 
 ### 🤠 The tech I know:
 
