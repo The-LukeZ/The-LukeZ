@@ -18,6 +18,7 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 And also some recent stuff...
 
 [![li18n Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=li18n&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/li18n)
+[![Echohawk Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=Echohawk&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/Echohawk)
 
 ### 🤠 The tech I know:
 
