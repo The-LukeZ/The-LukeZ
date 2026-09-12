@@ -4,11 +4,7 @@ I do stuff...
 
 You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/) or just look at my [portfolio](https://thelukez.com/).
 
-- Love to play drums, both privately and in a band
-- Enjoy playing video games, mainly R6S
-- Make YouTube videos (sometimes at least)
-- I also love cats.
-
+Outside job and my own projects: Drummer, Gamer, Discord-Administration, binging YouTube
 
 ### 👉🏻 Current Main Projects (outside of work)
 
