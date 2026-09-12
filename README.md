@@ -12,8 +12,8 @@ You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://h
 
 ### 👉🏻 Current Main Projects (outside of work)
 
-- [SupportMail](https://supportmail.dev/) -- Discord Modmail Bot, serving 820+ guilds
-- [Ticketon](https://ticketon.app/) -- Modern Discord Ticket Bot
+- [SupportMail](https://supportmail.dev/) -- Discord Modmail Bot, serving 1k+ guilds
+- [Ticketon](https://ticketon.app/) -- Modern Discord Ticket Bot with 100+ guilds
 
 And also some recent stuff...
 
