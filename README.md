@@ -2,6 +2,8 @@
 
 I do stuff...
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F8MZRJC)
+
 You can reach out to me on Discord (`@thelukez`) or join the [Discord](https://honocord.thelukez.com/discord/) or just look at my [portfolio](https://thelukez.com/).
 
 Outside job and my own projects: Drummer, Gamer, Discord-Administration, binging YouTube
