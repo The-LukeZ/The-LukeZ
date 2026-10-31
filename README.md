@@ -16,7 +16,7 @@ Outside job and my own projects: Drummer, Gamer, Discord-Administration, binging
 And also some recent stuff...
 
 [![li18n Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=li18n&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/li18n)
-[![Echohawk Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=Echohawk&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/Echohawk)
+[![Echohawk Card](https://github-readme-stats.thelukez.com/api/pin/?username=The-LukeZ&repo=discord-docs-mcp&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/The-LukeZ/discord-docs-mcp)
 
 ### 🤠 The tech I know:
 
