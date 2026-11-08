@@ -10,6 +10,7 @@ Outside job and my own projects: Drummer, Gamer, Discord-Administration, binging
 
 ### 👉🏻 Current Main Projects (outside of work)
 
+- [Tomu](https://tomu.foo/) -- Share lists with people, no account needed
 - [SupportMail](https://supportmail.dev/) -- Discord Modmail Bot, serving 1k+ guilds
 - [Ticketon](https://ticketon.app/) -- Modern Discord Ticket Bot with 100+ guilds
 
